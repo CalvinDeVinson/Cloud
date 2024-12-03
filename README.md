@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://modrinth.com/modpack/flame"><img src="https://github.com/user-attachments/assets/9f3dd21d-4f06-4029-b0ec-e73b26ff175a" alt="Available on Modrinth"></a>
-</div>
-
 Cloud is a **client-side** modpack comprised of the **best combination of mods** (e.g. Sodium and Lithium, along with many more) that significantly improves rendering performance, logic performance, memory usage, and more - all without compromising on the game's vanilla looks and features! It is designed to be simple and not include any quality-of-life mods, along with not including redundant performance mods.
 
 # 📥 Installation Guide
